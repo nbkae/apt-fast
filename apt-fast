@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/home/osboxes
 #
 # apt-fast v1.9
 # Use this just like aptitude or apt-get for faster package downloading.
